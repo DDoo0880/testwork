@@ -30,7 +30,7 @@
 [홈페이지](https://ddoo0880.github.io/testwork/)
 
 ## 5.코드처리사항
-```pyphon
+```javascript
 print("Hello World!!);
 arr[1,2,3,4,5]
 ```
